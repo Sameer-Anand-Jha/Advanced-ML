@@ -1,0 +1,1 @@
+room monitoring security system, triggered by Whisper-based voice commands with real-time facial authentication through Deepface/Facenet embeddings, with robust Voice Activity Detection (VAD) and alerting protocol.
